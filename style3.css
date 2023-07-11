@@ -1,0 +1,33 @@
+img
+{
+ vertical-align: middle;
+ border-style: none;   
+}
+.card-body
+{
+    flex: 1 1 auto;
+    padding: 1.25px;
+}
+.blockquote-footer
+{
+    background-color: blue;
+}
+.card-body
+{
+    padding: ;
+    flex: 1 1 auto;
+}
+.card-prmary
+{
+    background-color: blue;
+}
+p
+{
+    margin: 0;
+    margin-bottom: 1px;
+}
+.card-body
+{
+    margin: 0;
+    margin-bottom: 1rem;
+}
